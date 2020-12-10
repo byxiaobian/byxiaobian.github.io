@@ -22,3 +22,7 @@
 	border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
+#page-header.post-bg:before{
+	border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
