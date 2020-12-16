@@ -6,7 +6,7 @@
   <link href="https://wtnl.xyz/atom.xml" rel="self"/>
   
   <link href="https://wtnl.xyz/"/>
-  <updated>2020-12-16T11:59:20.923Z</updated>
+  <updated>2020-12-15T13:08:35.164Z</updated>
   <id>https://wtnl.xyz/</id>
   
   <author>
@@ -15,26 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>语雀测试文章</title>
-    <link href="https://wtnl.xyz/2020/12/16/yuque/%E8%AF%AD%E9%9B%80%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <id>https://wtnl.xyz/2020/12/16/yuque/%E8%AF%AD%E9%9B%80%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</id>
-    <published>2020-12-16T11:38:38.000Z</published>
-    <updated>2020-12-16T11:59:20.923Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="如果看到了这篇文章-说明已经成功配置了语雀"><a href="#如果看到了这篇文章-说明已经成功配置了语雀" class="headerlink" title="如果看到了这篇文章 说明已经成功配置了语雀"></a>如果看到了这篇文章 说明已经成功配置了语雀</h2><h4 id="图片测试"><a href="#图片测试" class="headerlink" title="图片测试"></a>图片测试</h4><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.nlark.com/yuque/0/2020/jpeg/8395216/1608097413839-67e03453-9a64-4d00-bf2b-9cabf15a4709.jpeg#align=left&display=inline&height=313&margin=%5Bobject%20Object%5D&name=3gfhhbf3rfeferg.jpg&originHeight=313&originWidth=500&size=21705&status=done&style=none&width=500" alt="3gfhhbf3rfeferg.jpg"></p><h4 id="代码块测试"><a href="#代码块测试" class="headerlink" title="代码块测试"></a>代码块测试</h4><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span></span>&#123;</span><br><span class="line">System.out.println(<span class="string">&quot;hello world&quot;</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>测试结束!!!!!!!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;如果看到了这篇文章-说明已经成功配置了语雀&quot;&gt;&lt;a href=&quot;#如果看到了这篇文章-说明已经成功配置了语雀&quot; class=&quot;headerlink&quot; title=&quot;如果看到了这篇文章 说明已经成功配置了语雀&quot;&gt;&lt;/a&gt;如果看到了这篇文章 说明已经成功配置了语雀&lt;/</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Mybatis(三)-注解开发</title>
