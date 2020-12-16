@@ -274,7 +274,7 @@ if (false) {
 }
 
 var pjax = new Pjax({
-  elements: 'a:not([target="_blank"]):not([href="/source/shuoshuo/index.md"])',
+  elements: 'a:not([target="_blank"]):not([href="/shuoshuo/"])',
   selectors: pjaxSelectors,
   cacheBust: false,
   analytics: false,
@@ -284,6 +284,7 @@ var pjax = new Pjax({
 document.addEventListener('pjax:complete', function () {
   window.refreshFn()
 
+  
   $('script[data-pjax]').each(function () {
     $(this).parent().append($(this).remove())
   })
